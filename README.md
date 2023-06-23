@@ -2,15 +2,15 @@
 
 A Flutter project with REST API for Event Finding.
 
-## Getting Started
+## System Architecture
 
-This project is a starting point for a Flutter application.
+Below is the system architecture design for the event finder app.
 
-A few resources to get you started if this is your first Flutter project:
+![EventManagerSD](https://github.com/AhnAne007/event_finder_flutter/assets/89075855/2a1dfb7a-6155-445d-9100-302f2bd80fa4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ERD diagram
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Below is the expected ERD for this application.
+
+![EventManagerERD](https://github.com/AhnAne007/event_finder_flutter/assets/89075855/05001796-86ab-4500-8028-54c5b2075a51)
+
