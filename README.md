@@ -2,6 +2,13 @@
 
 A Flutter project with REST API for Event Finding.
 
+## User Stories
+
+- As a verified user I should be able to create an event.
+- As a user, I should be able to go to any event.
+- As a user, I should be able to buy a ticket.
+- As a user, I should get notified of my scheduled events.
+
 ## System Architecture
 
 Below is the system architecture design for the event finder app.
